@@ -1,7 +1,7 @@
 #include <string.h>
 #include <jni.h>
 
-#include "config.h"
+//#include "config.h"
 #include <inttypes.h>
 #include <math.h>
 #include <limits.h>
